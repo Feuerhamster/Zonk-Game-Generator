@@ -1,0 +1,16 @@
+Logdatei für die automatische generierung des "Zonk" spiels.
+
+Einstellungen:
+- Runden: 10
+- Zufällig wechseln: ja
+- Wechsel: zufall
+
+Statistiken:
+
+- Runden: 10
+
+- Gewinne: 6
+- Verloren: 4
+
+- Gewinnrate: 60%
+- Verlierrate: 40%
