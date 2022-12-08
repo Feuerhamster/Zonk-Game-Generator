@@ -9,6 +9,6 @@
   "author": "Feuerhamster",
   "license": "ISC",
   "dependencies": {
-    "nexe": "^3.1.0"
+    "nexe": "^4.0.0-rc.1"
   }
 }
